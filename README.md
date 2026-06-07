@@ -1,4 +1,3 @@
-# Dushyanth-mollati
 <h1 align="center"> Dushyanth Mollati</h1>
 <h3 align="center">EMC Test Engineer | EMI/EMC Compliance Specialist | RF & Embedded Systems Engineer</h3>
 
@@ -123,19 +122,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your.email@example.com  
+- LinkedIn: https://linkedin.com/in/dushyanth-mollati-3926511a0
+- Email: dushyanth.mollati@gmail.com  
 
 ---
 
